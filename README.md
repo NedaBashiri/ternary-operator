@@ -1,1 +1,1 @@
-Example of Ternary Operators in Java
+Example of Ternary Operator in Java
